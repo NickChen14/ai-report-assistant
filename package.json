@@ -1,0 +1,10 @@
+{
+  "name": "104-ai-report-assistant",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
